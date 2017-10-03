@@ -1,8 +1,8 @@
-**Counting Race**
+**Corrida da contagem**
 
-In 2004, the government of Florida drew up a list of felons who were ineligible to vote. It did this by matching names between a criminal records database and a registered voter database. The courts ordered that the list be released publicly, and shortly thereafter the *Sarasota Herald-Tribune* discovered that there were almost no Hispanics on the list.[10](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
+Em 2004, o governo da Florida criou uma lista dos condenados aos quais não era permitido votar. Eles fizeram isso cruzando os nomes de um banco de dados de registros criminais e um banco de dados de eleitores registrados. Os tribunais ordenaram que a lista fosse divulgada ao público e, logo após, o *Sarasota Herald Tribune* descobriu que quase não havia hispânicos na lista.[10](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
 
-This seemed impossible. Hispanics made up 17 percent of the population but only one-tenth of 1 percent of the list; there were only 61 Hispanic people on the list of 47,763 names. At the time, Florida's Hispanic voters were mostly Cubans who supported the Republican Party. If they weren't on the list, they would be allowed to vote. There were accusations of politically motivated fraud.
+Isso parecia impossível. Os hispânicos compunham 17% da população, mas apenas um décimo de 1% da lista; havia apenas 61 indivíduos hispânicos na lista de 47.763 nomes. Na época, os eleitores hispânicos da Flórida eram na maioria cubanos que apoiavam o Partido Republicano. Se eles não estivessem na lista, poderiam votar. Houve acusações de fraude por motivos políticos.
 
 More digging revealed that this was not actually a political maneuver but a data problem. In the state's voter database, Hispanic is a "race." In the criminal history database, Hispanic is an "ethnicity." The same information was conceived in two different ways, so it was recorded in two different fields in two different systems. To prevent false matches based on name alone, the government had chosen to match on name, date of birth, and "race" but not "ethnicity." Thus, Hispanic felons could never match Hispanic voters.[11](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php#citations)
 
